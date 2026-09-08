@@ -108,7 +108,7 @@ Las pruebas se organizaron en diferentes ciclos asociados a las versiones del si
 
 La documentación del proceso de pruebas define el alcance, estrategia, ambiente, datos de prueba, ciclos y herramientas utilizadas.
 
-[📄 Ver documentación del proceso de pruebas](./informe-final-pruebas/)
+[📄 Ver documentación del proceso de pruebas](./informe-de-pruebas/)
 
 ---
 
